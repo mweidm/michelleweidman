@@ -1,0 +1,2 @@
+[12-Oct-2015 02:39:43 America/Detroit] PHP Fatal error:  Call to undefined function add_action() in /home/michel35/public_html/wp-content/plugins/hello.php on line 60
+[24-Oct-2015 01:17:09 America/Detroit] PHP Fatal error:  Call to undefined function add_action() in /home/michel35/public_html/wp-content/plugins/hello.php on line 60

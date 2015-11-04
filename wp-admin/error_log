@@ -1,0 +1,2 @@
+[02-Apr-2015 17:48:49 UTC] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/michel35/public_html/wp-includes/functions.php on line 2663
+[02-Apr-2015 17:56:56 UTC] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/michel35/public_html/wp-includes/functions.php on line 2663
